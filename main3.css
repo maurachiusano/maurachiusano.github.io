@@ -1,13 +1,13 @@
-div.p{
+div p{
     color:AliceBlue;
     }
   
-div p{
+div > p{
     color: Aqua;
     }
-div~p{
+div ~ p{
     color: Aquamarine;
     }
-div+p{
+div + p{
     color: deeppink;
     }
