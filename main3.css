@@ -1,0 +1,13 @@
+div.p{
+    color:AliceBlue;
+    }
+  
+div p{
+    color: Aqua;
+    }
+div~p{
+    color: Aquamarine;
+    }
+div+p{
+    color: deeppink;
+    }
