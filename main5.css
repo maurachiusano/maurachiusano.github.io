@@ -6,6 +6,10 @@ li:last-child{
        color:green;
        }
        
-li:nth-child (even){
+li:nth-child (3){
        color:brown;
+}
+
+lo:nth-last-child{
+       color:yellow;
 }
