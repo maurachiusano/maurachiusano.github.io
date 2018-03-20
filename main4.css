@@ -1,3 +1,4 @@
+
 p:first-letter{
       font-size: 300%;
       color: Aquamarine;
@@ -24,4 +25,5 @@ h1{
       height:80px;
       padding:30px;
       background-color: Aquamarine;
+      text-align:center;
 }
