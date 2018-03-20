@@ -20,5 +20,8 @@ h1{
       text-align:center;
 }
 #Quote{
+      width: 400px;
+      height:55px;
+      padding:10px;
       background-color: Aquamarine;
 }
