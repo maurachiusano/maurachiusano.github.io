@@ -7,10 +7,12 @@ p:first-letter{
 }
 p{
       font-family: Papyrus;
+      vertical-align:middle;
+      text-align:center;
   }
 h1{
       font-family: Papyrus;
       font-size: 350%;
       Font-weight:bold;
-      text.align:center;
+      text-align:center;
 }
