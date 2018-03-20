@@ -1,7 +1,10 @@
 p:first-letter{
       font-size: 200%;
       color: Aquamarine;
-      font-family: Verdana;
+      font-family: Lucida Calligraphy;
       font-weight:bold;
       
 }
+p{
+      font-family: Lucida Calligraphy;
+  }
