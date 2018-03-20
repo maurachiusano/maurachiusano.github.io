@@ -2,10 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="main.css">
+    <title>Unicorns</title>
+    <link rel="stylesheet" href="main6.css">
 </head>
 <body>
   <a href="unicorns.html">Join the club</a>
 </body>
+
+<p><a href="https://www.urbandictionary.com/define.php?term=Unicorn">Urban Definition</a></p>
+<p><a href="https://www.amazon.com/unicorn/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aunicorn">Purchase Unicorns</a></p>
+
+<p><a href="https://www.bing.com/images/search?q=unicorns&qpvt=unicorns&FORM=IGRE">Awesome Images</a></p>
+<p><a href="https://www.pinterest.com/explore/unicorns/?lp=true">Creative Ideas</a></p>
+</body>
 </html>
+
