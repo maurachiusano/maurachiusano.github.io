@@ -1,10 +1,15 @@
 p:first-letter{
       font-size: 200%;
       color: Aquamarine;
-      font-family: Lucida Calligraphy;
+      font-family: Lucida;
       font-weight:bold;
       
 }
 p{
-      font-family: Lucida Calligraphy;
+      font-family: Lucida;
   }
+h1{
+      font-family: Lucida;
+      font-size: 200%;
+      Font-weight:bold;
+}
