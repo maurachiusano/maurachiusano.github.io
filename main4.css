@@ -1,16 +1,16 @@
 p:first-letter{
-      font-size: 200%;
+      font-size: 300%;
       color: Aquamarine;
-      font-family: Lucida;
+      font-family: Papyrus;
       font-weight:bold;
       
 }
 p{
-      font-family: Lucida;
+      font-family: Papyrus;
   }
 h1{
-      font-family: Lucida;
-      font-size: 200%;
+      font-family: Papyrus;
+      font-size: 350%;
       Font-weight:bold;
       text.align:center;
 }
