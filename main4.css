@@ -3,6 +3,10 @@ p:first-letter{
       color: Aquamarine;
       font-family: Papyrus;
       font-weight:bold;
+    
+p:first-line{
+      color:cornsilk;
+      }
       
 }
 p{
