@@ -3,23 +3,26 @@ p:first-letter{
       color: Aquamarine;
       font-family: Papyrus;
       font-weight:bold;
+}
     
 p::first-line{
       
-          background-color: Aquamarine;
-              }
+          background-color: AliceBlue;
+   }
       
 
 p{
       font-family: Papyrus;
       text-align:center;
   }
+      
 h1{
       font-family: Papyrus;
       font-size: 350%;
       Font-weight:bold;
       text-align:center;
 }
+      
 #Quote{
      
       text-align:center;
