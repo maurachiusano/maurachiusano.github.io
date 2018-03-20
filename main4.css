@@ -1,5 +1,7 @@
-li: :first-letter{
+p:first-letter{
       font-size: 200%;
       color: Aquamarine;
       font-family: Verdana;
+      font-weight:bold;
+      
 }
