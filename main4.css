@@ -1,8 +1,10 @@
+
 p:first-letter{
       font-size: 300%;
       color: Aquamarine;
       font-family: Papyrus;
       font-weight:bold;
+      background:white;
 }
     
 p::first-line{
