@@ -6,7 +6,7 @@ li:last-child{
        color:green;
        }
        
-li:nth-child (3){
+li:nth-child(3){
        color:brown;
 }
 
