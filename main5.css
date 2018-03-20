@@ -6,3 +6,6 @@ li:last-child{
        color:green;
        }
        
+li:nth-child{
+       color:brown;
+}
