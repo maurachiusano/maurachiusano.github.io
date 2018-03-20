@@ -8,5 +8,5 @@ div ~ p{
         color:blue;
        }
 div + p{
-    color: deeppink;
+    color: yellow;
     }
