@@ -1,11 +1,10 @@
-
 p:first-letter{
       font-size: 300%;
       color: Aquamarine;
       font-family: Papyrus;
       font-weight:bold;
     
-p:first-line{
+p::first-line{
       color:lightCyan;
       width: 700px;
 
@@ -16,7 +15,7 @@ p:first-line{
       background-color: Aquamarine;
       }
       
-}
+
 p{
       font-family: Papyrus;
       text-align:center;
