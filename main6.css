@@ -1,1 +1,12 @@
-
+a:link{
+  color:Aquamarine;
+}
+a:visited{
+  color:orange;
+}
+a:hover{
+  color:AliceBlue;
+}
+a:active{
+  color:DarkViolet;
+}
