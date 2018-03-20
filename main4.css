@@ -7,6 +7,13 @@ p:first-letter{
     
 p:first-line{
       color:lightCyan;
+      width: 700px;
+
+      height:80px;
+
+      padding:30px;
+
+      background-color: Aquamarine;
       }
       
 }
@@ -21,9 +28,6 @@ h1{
       text-align:center;
 }
 #Quote{
-      width: 700px;
-      height:80px;
-      padding:30px;
-      background-color: Aquamarine;
+     
       text-align:center;
 }
